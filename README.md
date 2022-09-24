@@ -42,4 +42,3 @@ works:
 ```
 
 Everything in the data files are optional, except the title. So you may have an article without abstract and links, and another one without note and PDF link.
-
