@@ -7,6 +7,10 @@ works:
   book: "under revision for the Quarterly Journal of Economics"
   note: "Last Updated: May 2022"
   links:
+    - url: "/pdf/machines-appendix.pdf"
+      text: "Online Appendix"
+    - url: "/pdf/machines-slides.pdf"
+      text: "Slides"
     - url: "https://twitter.com/joonastuhkuri/status/1464259268148969475"
       text: "Twitter"
   abstract: >
