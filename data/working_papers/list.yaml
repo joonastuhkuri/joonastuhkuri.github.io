@@ -1,14 +1,16 @@
 works:
 
 
-- title: "What is Money? Evidence from Introducing Digital Currency to a Barter Community"
-  pdflink: "/pdf/Bunz.pdf"
-  note: "Last Updated: February 2022"
+- title: "New Evidence on the Effect of Technology on Employment and Skill Demand"
+  pdflink: "/pdf/machines.pdf"
+  coauthors: "Mayara Felix"
+  book: "Under revision for the Quarterly Journal of Economics"
+  note: "Last Updated: May 2022"
   links:
-    - url: "https://twitter.com/mbwong/status/1453385579308195842?s=20&t=2KZ23wzUGzl9ViykC8gzFg"
-      text: "Twitter thread"
+    - url: "https://twitter.com/joonastuhkuri/status/1464259268148969475"
+      text: "Twitter Thread"
   abstract: >
-      I analyze how digital currency issuance by a private online platform affected the volume of trade in a large barter community in Toronto. The community initially banned cash, but subsequently introduced a digital token that could be transferred among users and redeemed at designated local stores for retail goods. Using comprehensive transactions data, I show that a large monetary expansion persistently increased transaction volume by 70% by enabling monetized trade. However, when token redemption was suddenly halted at a subset of stores, a run on the token ensued and transaction volume fell. The findings are consistent with a search-theoretic model wherein money functions as a medium of exchange.
+      We present novel evidence on the effects of advanced technologies on employment, skill demand, and firm performance. The main finding is that advanced technologies led to increases in employment and no change in skill composition. Our main research design focuses on a technology subsidy program in Finland that induced sharp increases in technology investment in manufacturing firms. Our data directly measure multiple technologies and skills and track firms and workers over time. We demonstrate novel text analysis and machine learning methods to perform matching and to measure specific technological changes. To understand our findings, we outline a theoretical framework that contrasts two types of technological change: process versus product. We document that the firms used new technologies to produce new types of output rather than replace workers with technologies within the same type of production. The results contrast with the ideas that technologies necessarily replace workers or are skill biased.
 
 - title: "Labor Market Consequences of Domestic Outsourcing: Evidence from Legalization in Brazil"
   pdflink: "/pdf/outsourcing.pdf"
@@ -26,7 +28,7 @@ works:
   note: "Last Updated: June 2022"
   book: "Under review"
   abstract: >
-       Many governments sell public housing to sitting tenants but limit the resale and leasing of sold units. What is the impact of this partial privatization? I present quasi-experimental evidence that fifteen years after its introduction, Hong Kong’s Tenants Purchase Scheme reduced household sizes in treated estates by 7 percent and increased household incomes by 23 percent. There was little reallocation of housing across households, however. These effects are instead driven by the relaxation of household-size-contingent income limits and unit allocation rules, which increased labor supply and altered household composition. 
+       Many governments sell public housing to sitting tenants but limit the resale and leasing of sold units. What is the impact of this partial privatization? I present quasi-experimental evidence that fifteen years after its introduction, Hong Kong’s Tenants Purchase Scheme reduced household sizes in treated estates by 7 percent and increased household incomes by 23 percent. There was little reallocation of housing across households, however. These effects are instead driven by the relaxation of household-size-contingent income limits and unit allocation rules, which increased labor supply and altered household composition.
 
 - title: "Ideological Bias and Trust in Information Sources"
   pdflink: "/pdf/trust.pdf"
@@ -35,5 +37,3 @@ works:
   book: "Revise and resubmit, AEJ: Micro"
   abstract: >
       We study the role of endogenous trust in amplifying ideological bias. Agents in our model seek to learn a sequence of states using information from sources whose accuracy is ex ante uncertain. Agents rely on noisy feedback about the state from direct experience to learn the accuracy of sources. Small biases in this feedback can cause large ideological differences in the agents’ trust in information sources and their beliefs about the states, and may lead agents to become overconfident in their own judgment. Disagreements can be similar in magnitude whether agents see only ideologically aligned sources or see a diverse range of sources.
-
-
