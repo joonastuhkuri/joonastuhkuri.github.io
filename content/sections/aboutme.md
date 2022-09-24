@@ -4,6 +4,6 @@ My research focuses on technology, work, and psychological traits using novel 
 
 The media has featured my research widely, including [The Economist](https://www.economist.com/finance-and-economics/2022/01/22/economists-are-revising-their-views-on-robots-and-jobs), Washington Post, Wired, and Bloomberg. HS Visio also listed me in their [35 under 35](https://www.hs.fi/visio/art-2000007825436.html).
 
-__[Curriculum Vitae](/pdf/Tuhkuri_CV_MIT.pdf")__ (Updated July 2022)
+__[Curriculum Vitae](/pdf/Tuhkuri_CV_MIT.pdf)__ (Updated July 2022)
 
-__[Research Statement](/pdf/Tuhkuri_Research_MIT.pdf")__ (Updated November 2021)
+__[Research Statement](/pdf/Tuhkuri_Research_MIT.pdf)__ (Updated November 2021)
