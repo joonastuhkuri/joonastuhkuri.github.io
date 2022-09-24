@@ -1,4 +1,4 @@
-I am an economist (PhD, [MIT](https://economics.mit.edu/)) and an Assistant Professor of Economics at [Stockholm University](https://www.su.se/department-of-economics/) from 2023.   Currently, I am based in Berlin at the [Berlin School of Economics](https://berlinschoolofeconomics.de/home) and the new [Rockwool Foundation Berlin](https://www.rockwoolfonden.dk/en/).
+I am an economist (PhD, [MIT](https://economics.mit.edu/)) and an Assistant Professor of Economics at [Stockholm University](https://www.su.se/department-of-economics/) from 2023.   In 2022-23, I am based in Berlin at the [Berlin School of Economics](https://berlinschoolofeconomics.de/home) and the new [Rockwool Foundation Berlin](https://www.rockwoolfonden.dk/en/).
 
 My research focuses on technology, work, and psychological traits using novel large-scale data. My latest research documents that new technology investments in manufacturing led to increases in employment, contrasting with the common concerns about the future of work. I previously created a real-time forecast [ETLAnow](https://www.etla.fi/en/etlanow/) that predicts unemployment using Google search data.
 
