@@ -7,5 +7,5 @@ ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 publishDir = "docs"
 
 [params]
-    shortbio = "Assistant Professor, Stockholm University"
-    logo = "mw.png"
+    shortbio = "Assistant Professor of Economics, Stockholm University"
+    logo = "jt.jpg"
