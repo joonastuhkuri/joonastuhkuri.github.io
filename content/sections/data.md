@@ -7,7 +7,7 @@ _Featured in: The Washington Post, Bloomberg, Chicago Tribune, YLE._
 
 __Crosswalks__:
 
-Follow these links to data sets and programs from my research. Feel free to use these files for research with attribution.
+Follow these links to data and code from my research:
 
 Occupation Codes: This package harmonizes Finnish occupation codes into one consistent classification.
 
