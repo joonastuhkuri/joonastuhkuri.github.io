@@ -10,7 +10,6 @@
 {{ .Content }}
 {{ end }}
 
-
 {{ $scratch := newScratch }}
 {{ $scratch.Set "pubcnt" 0 }}
 
@@ -47,16 +46,15 @@
 {{ end }}
 {{ end }}
 
-
 {{ with .GetPage "/sections/teaching.md" }}
 <hr>
 <h2 id="teaching">Teaching</h2>
 {{ .Content }}
 {{ end }}
 
-{{ with .GetPage "/sections/personal.md" }}
+{{ with .GetPage "/sections/data.md" }}
 <hr>
-<h2 id="other">Notes</h2>
+<h2 id="other">Data</h2>
 {{ .Content }}
 {{ end }}
 
