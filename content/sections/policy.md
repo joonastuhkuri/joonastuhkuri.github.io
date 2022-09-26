@@ -1,4 +1,4 @@
-[Policy Brief: New Evidence on the Effect of Technology on Employment and Skill Demand](https://www.etla.fi/en/publications/briefs/teknologian-vaikutuksista-tyon-ja-taitojen-kysyntaan/), ETLA Brief 108, 2022. (with Johannes Hirvonen and Aapo Stenhammar).
+[Policy Brief: New Evidence on the Effect of Technology on Employment and Skill Demand](https://www.etla.fi/en/publications/briefs/teknologian-vaikutuksista-tyon-ja-taitojen-kysyntaan/), ETLA Brief 108, 2022 (with Johannes Hirvonen and Aapo Stenhammar).
 
 [Forecasting Unemployment with Google Searches](https://www.etla.fi/en/publications/forecasting-unemployment-with-google-searches/), ETLA Working Paper 35, 2016.
 
@@ -12,7 +12,7 @@
 
 [Globalization Threatens One Quarter of Finnish Employment](https://www.etla.fi/en/publications/globalization-threatens-one-quarter-of-finnish-employment/), ETLA Brief 46, 2016.
 
-[Finland in Global Value Chains](https://www.etla.fi/en/publications/suomi-globaaleissa-arvoketjuissa/), (with Jyrki Ali-Yrkkö, Petri Rouvinen, and Pekka Sinko), Prime Minister’s Office Publications 11/2016, 2016.
+[Finland in Global Value Chains](https://www.etla.fi/en/publications/suomi-globaaleissa-arvoketjuissa/), Prime Minister’s Office Publications 11/2016, 2016 (with Jyrki Ali-Yrkkö, Petri Rouvinen, and Pekka Sinko).
 
 [Offshoring R&D](https://www.etla.fi/en/publications/offshoring-rd/), CESIS Working Paper 439, 2016 (with Hans Lööf, Ali Mohammadi, and Petri Rouvinen).
 
