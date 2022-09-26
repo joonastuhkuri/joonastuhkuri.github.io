@@ -10,6 +10,8 @@ works:
       text: "Online Appendix"
     - url: "/pdf/machines-slides.pdf"
       text: "Slides"
+    - url: "https://www.economist.com/finance-and-economics/2022/01/22/economists-are-revising-their-views-on-robots-and-jobs"
+      text: "Feature in The Economist"
     - url: "https://twitter.com/joonastuhkuri/status/1464259268148969475"
       text: "Twitter"
   abstract: >
