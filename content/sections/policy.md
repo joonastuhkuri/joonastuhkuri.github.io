@@ -16,6 +16,6 @@ Finland in global value chains, (with Jyrki Ali-Yrkkö, Petri Rouvinen, and Pekk
 
 Offshoring R&D, CESIS Working Paper 439, 2016 (with Hans Lööf, Ali Mohammadi, and Petri Rouvinen).
 
-Trade and Innovation: Matched Worker-Firm-Level Evidence,” ETLA Working Paper 39, 2016.
+Trade and Innovation: Matched Worker-Firm-Level Evidence, ETLA Working Paper 39, 2016.
 
 Women and Men in Central Government 2012,” Ministry of Finance, 20/2013, 2013.
