@@ -12,10 +12,10 @@
 
 [Globalization Threatens One Quarter of Finnish Employment](https://www.etla.fi/en/publications/globalization-threatens-one-quarter-of-finnish-employment/), ETLA Brief 46, 2016.
 
-[Finland in Global Value Chains](https://www.etla.fi/en/publications/suomi-globaaleissa-arvoketjuissa/), Prime Minister’s Office Publications 11/2016, 2016 (with Jyrki Ali-Yrkkö, Petri Rouvinen, and Pekka Sinko).
+[Finland in Global Value Chains](https://www.etla.fi/en/publications/suomi-globaaleissa-arvoketjuissa/), Prime Minister's Office Publications 11/2016, 2016 (with Jyrki Ali-Yrkkö, Petri Rouvinen, and Pekka Sinko).
 
 [Offshoring R&D](https://www.etla.fi/en/publications/offshoring-rd/), CESIS Working Paper 439, 2016 (with Hans Lööf, Ali Mohammadi, and Petri Rouvinen).
 
 [Trade and Innovation: Matched Worker-Firm-Level Evidence](https://www.etla.fi/en/publications/trade-and-innovation-matched-worker-firm-level-evidence/), ETLA Working Paper 39, 2016.
 
-[Women and Men in Central Government 2012](/data/naiset_ja_miehet_valtiolla_2012.pdf),” Ministry of Finance, 20/2013, 2013.
+[Women and Men in Central Government 2012](/data/naiset_ja_miehet_valtiolla_2012.pdf), Ministry of Finance, 20/2013, 2013.
