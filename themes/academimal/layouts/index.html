@@ -64,5 +64,11 @@
 {{ .Content }}
 {{ end }}
 
+{{ with .GetPage "/sections/media.md" }}
+<hr>
+<h2 id="media">Media</h2>
+{{ .Content }}
+{{ end }}
+
 {{ .Content }}
 {{- end }}
