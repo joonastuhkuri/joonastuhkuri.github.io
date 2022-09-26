@@ -4,9 +4,9 @@
 
 [ETLAnow: A Model for Forecasting with Big Data](https://www.etla.fi/en/publications/etlanow-a-model-for-forecasting-with-big-data-forecasting-unemployment-with-google-searches-in-europe/), ETLA Reports 54, 2016.
 
-[Big Data: Google Searches Predict Unemployment in Finland](https://www.etla.fi/en/publications/33195/), ETLA Reports 31, 2014.
-
 [Big Data: Do Google Searches Predict Unemployment?](https://helda.helsinki.fi/handle/10138/155258), University of Helsinki, 2015.
+
+[Big Data: Google Searches Predict Unemployment in Finland](https://www.etla.fi/en/publications/33195/), ETLA Reports 31, 2014.
 
 [International Sourcing in Finland and Sweden](https://www.etla.fi/en/publications/international-sourcing-in-finland-and-sweden/), ETLA B 275, 2017 (with Hans Lööf, Petri Rouvinen et al.).
 
