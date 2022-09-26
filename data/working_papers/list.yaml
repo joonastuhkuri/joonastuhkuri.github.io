@@ -21,6 +21,7 @@ works:
   pdflink: "/pdf/adaptation.pdf"
   coauthors: "Ramin Izadi"
   note: "Last Updated: April 2022"
+  links:
     - url: "https://marginalrevolution.com/marginalrevolution/2021/11/tuesday-assorted-links-339.html"
       text: "Featured in Marginal Revolution"
   abstract: >
@@ -30,6 +31,7 @@ works:
   pdflink: "/pdf/stereotypes.pdf"
   coauthors: "Ramin Izadi"
   note: "Last Updated: November 2021"
+  links:
     - url: "https://marginalrevolution.com/marginalrevolution/2021/11/tuesday-assorted-links-339.html"
       text: "Featured in Marginal Revolution"
   abstract: >
