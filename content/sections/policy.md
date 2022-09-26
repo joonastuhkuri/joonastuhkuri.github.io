@@ -1,3 +1,5 @@
+Policy Brief: New Evidence on the Effect of Technology on Employment and Skill Demand, ETLA Brief 108 (with Johannes Hirvonen and Aapo Stenhammar).
+
 Forecasting Unemployment with Google Searches, ETLA Working Paper 35, 2016.
 
 ETLAnow: A Model for Forecasting with Big Data, ETLA Reports 54, 2016. _Featured in: The Washington Post, Chicago Tribune, Bloomberg, YLE News, HS._
