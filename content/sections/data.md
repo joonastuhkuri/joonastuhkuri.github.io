@@ -1,11 +1,11 @@
-__Projects__:
+__Projects__
 
 __[ETLAnow](https://www.etla.fi/en/etlanow/)__: Real-time unemployment forecasts based on Google search data. 2014–
 
 _Featured in: The Washington Post, Bloomberg, Chicago Tribune, YLE News, HS, and widely in the global media._
 
 
-__Code__:
+__Code__
 
 __[Occupation Codes](/data/xwalk-occupations.zip)__: This package harmonizes Finnish occupation codes.
 
