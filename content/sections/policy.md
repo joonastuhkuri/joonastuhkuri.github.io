@@ -6,7 +6,7 @@
 
 [Big Data: Google Searches Predict Unemployment in Finland](https://www.etla.fi/en/publications/33195/), ETLA Reports 31, 2014.
 
-[Big Data: Do Google Searches Predict Unemployment?](b), Thesis, University of Helsinki, 2015.
+[Big Data: Do Google Searches Predict Unemployment?](https://helda.helsinki.fi/handle/10138/155258), University of Helsinki, 2015.
 
 [International Sourcing in Finland and Sweden](https://www.etla.fi/en/publications/international-sourcing-in-finland-and-sweden/), ETLA B 275, 2017 (with Hans Lööf, Petri Rouvinen et al.).
 
