@@ -5,4 +5,4 @@ Department of Economics
 Humboldt Universitat zu Berlin  
 Spandauer Strasse 1 10178 Berlin
 
-__Profiles__: [Google Scholar](https://scholar.google.com/citations?user=Pm0G5zoAAAAJ&hl=fr) [Twitter](https://twitter.com/joonastuhkuri) [Linkedin](https://www.linkedin.com/in/joonastuhkuri/)
+[Google Scholar](https://scholar.google.com/citations?user=Pm0G5zoAAAAJ&hl=fr)  [Twitter](https://twitter.com/joonastuhkuri)  [Linkedin](https://www.linkedin.com/in/joonastuhkuri/)
