@@ -6,8 +6,6 @@ _Featured in The Washington Post, Bloomberg, Chicago Tribune, YLE News, HS, and 
 
 __Code__
 
-__[Occupation Codes](/data/xwalk-occupations.zip)__: This package harmonizes Finnish occupation codes.
-
-__[Industry Codes](/data/xwalk-industries.zip)__: This package harmonizes Finnish industry codes (2 and 3 digit levels).
-
+__[Occupation Codes](/data/xwalk-occupations.zip)__: This package harmonizes Finnish occupation codes.  
+__[Industry Codes](/data/xwalk-industries.zip)__: This package harmonizes Finnish industry codes (2 and 3 digit levels).  
 __[County and Subregion Codes](/data/xwalk-county-subregion.zip)__: This package harmonizes Finnish county codes into consistent subregions.
