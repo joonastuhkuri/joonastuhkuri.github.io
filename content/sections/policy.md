@@ -1,21 +1,21 @@
-[Policy Brief: New Evidence on the Effect of Technology on Employment and Skill Demand](https://www.etla.fi/en/publications/briefs/teknologian-vaikutuksista-tyon-ja-taitojen-kysyntaan/), ETLA Brief 108, 2022 (with Johannes Hirvonen and Aapo Stenhammar).
+__[Policy Brief: New Evidence on the Effect of Technology on Employment and Skill Demand](https://www.etla.fi/en/publications/briefs/teknologian-vaikutuksista-tyon-ja-taitojen-kysyntaan/)__, ETLA Brief 108, 2022 (with Johannes Hirvonen and Aapo Stenhammar).
 
-[Forecasting Unemployment with Google Searches](https://www.etla.fi/en/publications/forecasting-unemployment-with-google-searches/), ETLA Working Paper 35, 2016.
+__[Forecasting Unemployment with Google Searches](https://www.etla.fi/en/publications/forecasting-unemployment-with-google-searches/)__, ETLA Working Paper 35, 2016.
 
-[ETLAnow: A Model for Forecasting with Big Data](https://www.etla.fi/en/publications/etlanow-a-model-for-forecasting-with-big-data-forecasting-unemployment-with-google-searches-in-europe/), ETLA Report 54, 2016.
+__[ETLAnow: A Model for Forecasting with Big Data](https://www.etla.fi/en/publications/etlanow-a-model-for-forecasting-with-big-data-forecasting-unemployment-with-google-searches-in-europe/)__, ETLA Report 54, 2016.
 
-[Big Data: Do Google Searches Predict Unemployment?](https://helda.helsinki.fi/handle/10138/155258), University of Helsinki, 2015.
+__[Big Data: Do Google Searches Predict Unemployment?](https://helda.helsinki.fi/handle/10138/155258)__, University of Helsinki, 2015.
 
-[Big Data: Google Searches Predict Unemployment in Finland](https://www.etla.fi/en/publications/33195/), ETLA Report 31, 2014.
+__[Big Data: Google Searches Predict Unemployment in Finland](https://www.etla.fi/en/publications/33195/)__, ETLA Report 31, 2014.
 
-[International Sourcing in Finland and Sweden](https://www.etla.fi/en/publications/international-sourcing-in-finland-and-sweden/), ETLA B 275, 2017 (with Hans Lööf, Petri Rouvinen et al.).
+__[International Sourcing in Finland and Sweden](https://www.etla.fi/en/publications/international-sourcing-in-finland-and-sweden/)__, ETLA B 275, 2017 (with Hans Lööf, Petri Rouvinen et al.).
 
-[Globalization Threatens One Quarter of Finnish Employment](https://www.etla.fi/en/publications/globalization-threatens-one-quarter-of-finnish-employment/), ETLA Brief 46, 2016.
+__[Globalization Threatens One Quarter of Finnish Employment](https://www.etla.fi/en/publications/globalization-threatens-one-quarter-of-finnish-employment/)__, ETLA Brief 46, 2016.
 
-[Finland in Global Value Chains](https://www.etla.fi/en/publications/suomi-globaaleissa-arvoketjuissa/), Prime Minister's Office Publications 11/2016, 2016 (with Jyrki Ali-Yrkkö, Petri Rouvinen, and Pekka Sinko).
+__[Finland in Global Value Chains](https://www.etla.fi/en/publications/suomi-globaaleissa-arvoketjuissa/)__, Prime Minister's Office Publications 11/2016, 2016 (with Jyrki Ali-Yrkkö, Petri Rouvinen, and Pekka Sinko).
 
-[Offshoring R&D](https://www.etla.fi/en/publications/offshoring-rd/), CESIS Working Paper 439, 2016 (with Hans Lööf, Ali Mohammadi, and Petri Rouvinen).
+__[Offshoring R&D](https://www.etla.fi/en/publications/offshoring-rd/)__, CESIS Working Paper 439, 2016 (with Hans Lööf, Ali Mohammadi, and Petri Rouvinen).
 
-[Trade and Innovation: Matched Worker-Firm-Level Evidence](https://www.etla.fi/en/publications/trade-and-innovation-matched-worker-firm-level-evidence/), ETLA Working Paper 39, 2016.
+__[Trade and Innovation: Matched Worker-Firm-Level Evidence](https://www.etla.fi/en/publications/trade-and-innovation-matched-worker-firm-level-evidence/)__, ETLA Working Paper 39, 2016.
 
-[Women and Men in Central Government 2012](/data/naiset_ja_miehet_valtiolla_2012.pdf), Ministry of Finance, 20/2013, 2013.
+__[Women and Men in Central Government 2012](/data/naiset_ja_miehet_valtiolla_2012.pdf)__, Ministry of Finance, 20/2013, 2013.
