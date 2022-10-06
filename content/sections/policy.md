@@ -1,4 +1,4 @@
-__[Policy Brief: New Evidence on the Effect of Technology on Employment and Skill Demand](https://www.etla.fi/en/publications/briefs/teknologian-vaikutuksista-tyon-ja-taitojen-kysyntaan/)__, ETLA Brief 108, 2022 (with Johannes Hirvonen and Aapo Stenhammar).
+__[Policy Brief: New Evidence on the Effect of Technology on Employment and Skill Demand](https://www.etla.fi/en/publications/briefs/teknologian-vaikutuksista-tyon-ja-taitojen-kysyntaan/)__, ETLA Brief 108, 2022 (with J. Hirvonen and A. Stenhammar).
 
 __[Forecasting Unemployment with Google Searches](https://www.etla.fi/en/publications/forecasting-unemployment-with-google-searches/)__, ETLA Working Paper 35, 2016.
 
