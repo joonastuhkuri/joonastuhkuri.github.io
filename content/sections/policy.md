@@ -8,13 +8,13 @@ __[Big Data: Do Google Searches Predict Unemployment?](https://helda.helsinki.fi
 
 __[Big Data: Google Searches Predict Unemployment in Finland](https://www.etla.fi/en/publications/33195/)__, ETLA Report 31, 2014.
 
-__[International Sourcing in Finland and Sweden](https://www.etla.fi/en/publications/international-sourcing-in-finland-and-sweden/)__, ETLA B 275, 2017 (with Hans Lööf, Petri Rouvinen et al.).
+__[International Sourcing in Finland and Sweden](https://www.etla.fi/en/publications/international-sourcing-in-finland-and-sweden/)__, ETLA B 275, 2017 (with H. Lööf et al.).
 
 __[Globalization Threatens One Quarter of Finnish Employment](https://www.etla.fi/en/publications/globalization-threatens-one-quarter-of-finnish-employment/)__, ETLA Brief 46, 2016.
 
-__[Finland in Global Value Chains](https://www.etla.fi/en/publications/suomi-globaaleissa-arvoketjuissa/)__, Prime Minister's Office Publications 11/2016, 2016 (with Jyrki Ali-Yrkkö, Petri Rouvinen, and Pekka Sinko).
+__[Finland in Global Value Chains](https://www.etla.fi/en/publications/suomi-globaaleissa-arvoketjuissa/)__, Prime Minister's Office Publications 11/2016, 2016 (with J. Ali-Yrkkö et al.).
 
-__[Offshoring R&D](https://www.etla.fi/en/publications/offshoring-rd/)__, CESIS Working Paper 439, 2016 (with Hans Lööf, Ali Mohammadi, and Petri Rouvinen).
+__[Offshoring R&D](https://www.etla.fi/en/publications/offshoring-rd/)__, CESIS Working Paper 439, 2016 (with H. Lööf et al.).
 
 __[Trade and Innovation: Matched Worker-Firm-Level Evidence](https://www.etla.fi/en/publications/trade-and-innovation-matched-worker-firm-level-evidence/)__, ETLA Working Paper 39, 2016.
 
