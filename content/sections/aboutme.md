@@ -6,4 +6,4 @@ The media has featured my research widely, including [The Economist](https://ww
 
 __[CV](/pdf/Tuhkuri_CV.pdf)__ (Updated October 2022)
 
-__[Research Statement](/pdf/Tuhkuri_Research.pdf)__ (Updated November 2021)
+__[Research Statement](/pdf/Tuhkuri_Research.pdf)__ (Updated October 2022)
