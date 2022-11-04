@@ -7,4 +7,4 @@ Department of Economics
 Spandauer Straße 1  
 10178 Berlin
 
-Our team at [RF Berlin](https://www.rfberlin.com/) is looking for a research assistants / pre-docs for cool projects on technology and work. Contact me if you are interested!
+Our team at [RF Berlin](https://www.rfberlin.com/) is looking for research assistants / pre-docs for cool projects on technology and work. Contact me if you are interested!
