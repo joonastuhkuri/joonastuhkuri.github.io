@@ -2,7 +2,7 @@ I am an economist (PhD, [MIT](https://economics.mit.edu/)) and an Assistant Prof
 
 My [research](/#workingpapers) focuses on technology, work, and psychology using novel large-scale data. My [latest research](/pdf/machines.pdf) documents that new technologies led to increases in employment, contrasting with the common concerns about the future of work. I previously created a real-time forecast [ETLAnow](https://www.etla.fi/en/etlanow/) that predicts unemployment using Google search data.
 
-The media has featured my research widely, including [The Economist](https://www.economist.com/finance-and-economics/2022/01/22/economists-are-revising-their-views-on-robots-and-jobs), Washington Post, Wired, and Bloomberg. HS Visio also listed me in their [35 under 35](https://www.hs.fi/visio/art-2000007825436.html).
+The media has featured my research widely, including [The Economist](https://www.economist.com/finance-and-economics/2022/01/22/economists-are-revising-their-views-on-robots-and-jobs), Washington Post, Wired, and Bloomberg. HS Visio also listed me in their [35 under 35](https://www.hs.fi/visio/art-2000007825436.html). My PhD dissertation was awarded the W.E. Upjohn Institute Award 2022.
 
 __[CV](/pdf/Tuhkuri_CV.pdf)__ (Updated October 2022)
 
