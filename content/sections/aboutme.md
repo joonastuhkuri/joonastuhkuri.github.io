@@ -1,10 +1,8 @@
 I am an economist (PhD, [MIT](https://economics.mit.edu/)) and an Assistant Professor of Economics at [Stockholm University](https://www.su.se/department-of-economics/) from 2023.   Currently, I am based in Berlin at the new [Rockwool Foundation Berlin](https://www.rfberlin.com/) and the [Berlin School of Economics](https://berlinschoolofeconomics.de/home), and a Senior Fellow at [Etla](https://www.etla.fi/en/).
 
-My [research](/#workingpapers) focuses on technology, work, and psychology using novel large-scale data. My [latest research](/pdf/machines.pdf) documents that new technologies led to increases in employment, contrasting with the common concerns about the future of work. I previously created a real-time forecast [ETLAnow](https://www.etla.fi/en/etlanow/) that predicts unemployment using Google search data.
+My [research](/#workingpapers) focuses on technology, work, and psychology using novel large-scale data. My research documents that firms' adoption of advanced technologies increased employment, in contrast with common concerns about the future of work. I previously created a real-time forecast [ETLAnow](https://www.etla.fi/en/etlanow/) that predicts unemployment using Google search data.
 
-The media has featured my research widely, including [The Economist](https://www.economist.com/finance-and-economics/2022/01/22/economists-are-revising-their-views-on-robots-and-jobs), Washington Post, Wired, and Bloomberg. HS Visio also listed me in their [35 under 35](https://www.hs.fi/visio/art-2000007825436.html).
-
-My PhD dissertation was awarded the [W.E. Upjohn Institute Award 2022](https://www.upjohn.org/2022-Dissertation-Awardees).
+The media has featured my research widely, including [The Economist](https://www.economist.com/finance-and-economics/2022/01/22/economists-are-revising-their-views-on-robots-and-jobs), Washington Post, Wired, and Bloomberg. HS Visio also listed me in their [35 under 35](https://www.hs.fi/visio/art-2000007825436.html), and my PhD dissertation was awarded the [W.E. Upjohn Institute Award 2022](https://www.upjohn.org/2022-Dissertation-Awardees).
 
 __[CV](/pdf/Tuhkuri_CV.pdf)__ (Updated January 2023)
 
