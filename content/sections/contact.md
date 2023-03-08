@@ -6,5 +6,3 @@ c/o Humboldt-Universität zu Berlin
 Department of Economics  
 Spandauer Straße 1  
 10178 Berlin
-
-__Open positions__: Our team at [RF Berlin](https://www.rfberlin.com/) is looking for research assistants / pre-docs for projects on technology and work. Contact me if you are interested.
