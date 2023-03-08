@@ -3,5 +3,5 @@ __Tel__: +358 400 239 818
 __Address__:  
 Rockwool Foundation Berlin  
 c/o Department of Economics  
-Humboldt-Universität zu Berlin
+Humboldt-Universität zu Berlin  
 Spandauer Straße 1 10178 Berlin
