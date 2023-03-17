@@ -4,6 +4,6 @@ My [research](/#workingpapers) focuses on technology, work, and psychology usi
 
 The media has featured my research widely, including [The Economist](https://www.economist.com/finance-and-economics/2022/01/22/economists-are-revising-their-views-on-robots-and-jobs), Washington Post, and Wired. My PhD thesis was awarded the [W.E. Upjohn Institute Award](https://www.upjohn.org/2022-Dissertation-Awardees) and HS listed me in their [35 under 35](https://www.hs.fi/visio/art-2000007825436.html).
 
-__[CV](/pdf/Tuhkuri_CV.pdf)__ (Updated January 2023)
+__[CV](/pdf/Tuhkuri_CV.pdf)__ (Updated March 2023)
 
 __[Research Statement](/pdf/Tuhkuri_Research.pdf)__ (Updated October 2022)
