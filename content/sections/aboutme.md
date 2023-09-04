@@ -1,4 +1,4 @@
-I'm an economist (PhD, [MIT](https://economics.mit.edu/)) and an Assistant Professor of Economics at [Stockholm University](https://www.su.se/department-of-economics/).   I'm also affiliated with [RF Berlin](https://www.rfberlin.com/), [Etla](https://www.etla.fi/en/), and [IZA](https://www.iza.org/).
+I'm an economist (PhD, [MIT](https://economics.mit.edu/)) and an Assistant Professor of Economics at [Stockholm University](https://www.su.se/department-of-economics/). I'm also affiliated with [RF Berlin](https://www.rfberlin.com/), [Etla](https://www.etla.fi/en/), and [IZA](https://www.iza.org/).
 
 My [research](/#workingpapers) focuses on technology, work, and psychology using novel large-scale data. For example, my latest work documents that when firms adopted advanced technologies they increased employment—contrasting with common concerns about the future of work. I've also created a real-time forecast [ETLAnow](https://www.etla.fi/en/etlanow/) that predicts unemployment using Google search data.
 
