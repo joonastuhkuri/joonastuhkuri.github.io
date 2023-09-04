@@ -1,6 +1,6 @@
 __Email__: [joonas.tuhkuri@gmail.com](mailto:joonas.tuhkuri@gmail.com)  
 __Tel__: +358 400 239 818  
 __Address__:  
-Stockholm University
-Department of Economics
+Stockholm University  
+Department of Economics  
 106 91 Stockholm, Sweden
