@@ -1,4 +1,4 @@
-__Email__: [joonas.tuhkuri@gmail.com](mailto:joonas.tuhkuri@gmail.com)  
+__Email__: [joonas.tuhkuri@su.se](mailto:joonas.tuhkuri@su.se)  
 __Tel__: +358 400 239 818  
 __Address__:  
 Stockholm University  
