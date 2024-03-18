@@ -6,6 +6,4 @@ The media has featured my research widely, including in [The Economist](https:/
 
 __[CV](/pdf/Tuhkuri_CV.pdf)__ (Updated March 2024)
 
-__[Research Statement](/pdf/Tuhkuri_Research.pdf)__ (Updated October 2022)
-
 __[Fields]()__: Labor Economics, Technology and Innovation, Psychology and Economics.
