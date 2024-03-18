@@ -15,16 +15,16 @@ works:
   abstract: >
       We present novel evidence on the effects of advanced technologies on employment, skill demand, and firm performance. The main finding is that advanced technologies led to increases in employment and no change in skill composition. Our main research design focuses on a technology subsidy program in Finland that induced sharp increases in technology investment in manufacturing firms. Our data directly measure multiple technologies and skills and track firms and workers over time. We demonstrate novel text analysis and machine learning methods to perform matching and to measure specific technological changes. To understand our findings, we outline a theoretical framework that contrasts two types of technological change: process versus product. We document that the firms used new technologies to produce new types of output rather than replace workers with technologies within the same type of production. The results contrast with the ideas that technologies necessarily replace workers or are skill biased.
 
-- title: "School vs. Action-Oriented Personalities in the Labor Market"
+- title: "Evolving Returns to Personality"
   pdflink: "/pdf/stereotypes.pdf"
   coauthors: "Ramin Izadi"
   book: "under revision for the Journal of Labor Economics"
-  note: "Last Updated: November 2021"
+  note: "Last Updated: March 2024"
   links:
     - url: "https://marginalrevolution.com/marginalrevolution/2021/11/tuesday-assorted-links-339.html"
       text: "Featured in Marginal Revolution"
   abstract: >
-      How do different dimensions of personality predict school vs. labor-market performance? How has the value of these traits changed over time? We answer these questions using data that includes multidimensional personality and cognitive test scores from mandatory military conscription for approximately 80% of Finnish men. We document that some dimensions of noncognitive skills are productive at school, and some dimensions are counterproductive at school but still valued in the labor market. Action-oriented traits predict low school performance but high labor market performance. School-oriented traits, such as dutifulness, deliberation, and achievement striving, predict high school performance but are not independently valued in the labor market after controlling for school achievement. We further document that the labor- market premium to action-oriented personality traits has rapidly increased over the past two decades. To interpret the empirical results, we outline a model of multidimensional skill specialization. The model and evidence highlight two paths to labor-market success: one through school-oriented traits and formal skills, and one through action-oriented traits and informal skills.
+      We use cognitive and personality test records of half a million Finnish men to describe the trends in labor-market returns to psychological traits between 2001 and 2015. Consistent with earlier research, we observe a decline in the value of cognitive skills and an increase in the value of noncognitive skills. Our novel results show that extraversion-related traits drive the rising returns to noncognitive skills. The returns to conscientiousness-related traits have remained stable. The increasing gains from extraversion are driven by those at the lower end of earnings and by the employment margin. We also show that these traits predict different paths in the labor market. Extraversion predicts lower education and more work experience. Cognitive ability and conscientiousness are linked to sorting into highly educated and high-paying jobs.
 
 - title: "Psychological Traits and Adaptation in the Labor Market"
   pdflink: "/pdf/adaptation.pdf"
