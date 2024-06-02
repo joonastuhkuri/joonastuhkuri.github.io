@@ -1,4 +1,4 @@
-I'm an economist (PhD, [MIT](https://economics.mit.edu/)) and an Assistant Professor of Economics at [Stockholm University](https://www.su.se/department-of-economics/). I'm also a Senior Fellow at [Etla](https://www.etla.fi/en/), and a Research Affiliate at [IZA](https://www.iza.org/).c
+I'm an economist (PhD, [MIT](https://economics.mit.edu/)) and an Assistant Professor of Economics at [Stockholm University](https://www.su.se/department-of-economics/). I'm also a Senior Fellow at [Etla](https://www.etla.fi/en/) and a Research Affiliate at [IZA](https://www.iza.org/).
 
 My [research](/#workingpapers) focuses on technology, work, and psychology using novel large-scale data. My latest work documents that when firms adopted advanced technologies they increased employment—contrasting with common concerns about the future of work. 
 
