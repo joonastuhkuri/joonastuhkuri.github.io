@@ -1,6 +1,6 @@
 __Projects__
 
-__[ETLAnow]__: Real-time unemployment forecasts based on Google search data. 2014–  
+__ETLAnow__: Real-time unemployment forecasts based on Google search data. 2014–  
 _Featured in The Washington Post, Bloomberg, Chicago Tribune, YLE News, HS, and widely in the global media._
 
 
