@@ -1,19 +1,17 @@
 works:
 
-- title: "New Evidence on the Effect of Technology on Employment and Skill Demand"
+- title: "Winners and Losers of Technology Grants: Evidence on Jobs and Skills"
   pdflink: "/pdf/machines.pdf"
   coauthors: "Johannes Hirvonen and Aapo Stenhammar"
   book: "under revision for the Quarterly Journal of Economics"
-  note: "Last Updated: May 2022"
+  note: "Last Updated: January 2025"
   links:
-    - url: "/pdf/machines-appendix.pdf"
-      text: "Online Appendix"
     - url: "/pdf/machines-slides.pdf"
       text: "Slides"
     - url: "https://www.economist.com/finance-and-economics/2022/01/22/economists-are-revising-their-views-on-robots-and-jobs"
       text: "Featured in The Economist"
   abstract: >
-      We present novel evidence on the effects of advanced technologies on employment, skill demand, and firm performance. The main finding is that advanced technologies led to increases in employment and no change in skill composition. Our main research design focuses on a technology subsidy program in Finland that induced sharp increases in technology investment in manufacturing firms. Our data directly measure multiple technologies and skills and track firms and workers over time. We demonstrate novel text analysis and machine learning methods to perform matching and to measure specific technological changes. To understand our findings, we outline a theoretical framework that contrasts two types of technological change: process versus product. We document that the firms used new technologies to produce new types of output rather than replace workers with technologies within the same type of production. The results contrast with the ideas that technologies necessarily replace workers or are skill biased.
+      Industrial policies are widespread, but evidence on their workforce effects remains limited. We examine the impact of EU technology subsidies on employment and skill demand in Finnish SMEs, 1994–2018. The subsidies fund new machinery, including robots and CNC machines. Comparing closely matched grant winners and losers, we find that receiving a grant increased employment without changing skill composition. Leveraging novel application text data and machine learning, we match firms, analyze their plans, and show that subsidies primarily supported expansion, such as launching new products, rather than automating work. In contrast, analysis of a broader sample of manufacturing firms outside the program reveals that IT investments are more strongly associated with skill upgrading than machinery investments, suggesting that different technologies may impact jobs differently. Our findings indicate that machinery grants can create opportunities for non-college-educated workers.
 
 - title: "Evolving Returns to Personality"
   pdflink: "/pdf/stereotypes.pdf"
