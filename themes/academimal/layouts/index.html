@@ -15,7 +15,7 @@
 
 {{ with .Site.Data.working_papers }}
 <hr>
-<h2 id="workingpapers">Working Papers</h2>
+<h2 id="workingpapers">Research</h2>
 {{ range . }}
 {{ range .works }}
 {{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
