@@ -4,14 +4,14 @@ works:
   pdflink: "/pdf/machines.pdf"
   coauthors: "Johannes Hirvonen and Aapo Stenhammar"
   book: "under revision for the Quarterly Journal of Economics"
-  note: "Last Updated: April 2025"
+  note: "Last Updated: May 2025"
   links:
     - url: "/pdf/machines-slides.pdf"
       text: "Slides"
     - url: "https://www.economist.com/finance-and-economics/2022/01/22/economists-are-revising-their-views-on-robots-and-jobs"
       text: "Featured in The Economist"
   abstract: >
-      Industrial policies are widespread, but evidence on their workforce effects remains limited. We examine the impact of EU technology subsidies on employment and skill demand in Finnish SMEs, 1994–2018. The subsidies fund new machinery, including robots and CNC machines. Comparing closely matched grant winners and losers, we find that receiving a grant increased employment without changing skill composition. Leveraging novel application text data and machine learning, we match firms, analyze their plans, and show that subsidies primarily supported expansion, such as launching new products, rather than automating work. In contrast, analysis of a broader sample of manufacturing firms outside the program reveals that IT investments are more strongly associated with skill upgrading than machinery investments, suggesting that different technologies may impact jobs differently. Our findings indicate that machinery grants can create opportunities for non-college-educated workers.
+      We present novel evidence on the impact of EU technology subsidies on employment and skill mix in Finnish SMEs, 1994–2018. The subsidies funded new machinery, including robots and CNC machines. Comparing closely matched grant winners and losers, we find that subsidized investments increased employment without changing skill composition. We use machine learning on application texts to match firms by their evaluation reports, analyze their stated plans, and show that subsidies primarily supported expansion—such as launching new products—rather than automating work. In contrast, analysis of a broader sample of manufacturing firms outside the program shows that IT investments are more strongly associated with skill upgrading than machinery investments, consistent with different technologies relating to skill demand differently. Our findings suggest that these grants created opportunities for non-college-educated workers.
 
 - title: "Evolving Returns to Personality"
   pdflink: "/pdf/stereotypes.pdf"
