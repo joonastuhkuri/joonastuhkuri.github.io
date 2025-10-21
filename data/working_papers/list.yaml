@@ -4,14 +4,14 @@ works:
   pdflink: "/pdf/machines.pdf"
   coauthors: "Johannes Hirvonen and Aapo Stenhammar"
   book: "under revision for the Quarterly Journal of Economics"
-  note: "Last Updated: August 2025"
+  note: "Last Updated: October 2025"
   links:
     - url: "/pdf/machines-slides.pdf"
       text: "Slides"
     - url: "https://www.economist.com/finance-and-economics/2022/01/22/economists-are-revising-their-views-on-robots-and-jobs"
       text: "Featured in The Economist"
   abstract: >
-     We present new evidence on the impact of EU technology subsidies on employment and skill mix in Finnish small- and medium-sized manufacturing firms, 1994–2018. The subsidies funded new machinery, including robots. Comparing closely matched grant winners and losers, we find that subsidized investments increased employment without changing the skill mix. We use machine learning on evaluation reports to match firms. We then analyze firms’ stated plans and find that the subsidies primarily supported expansion—such as launching new products—rather than automating work. By contrast, outside the program, IT investment is more strongly linked to skill upgrading than machinery investment, consistent with different technologies shaping skill demand differently. Our findings suggest that these grants created opportunities for non-college-educated workers.
+     We present new evidence on the impact of EU technology grants on employment and skill mix in Finnish small and medium-sized manufacturing firms, 1994–2018. The subsidies funded new machinery, including robots. Comparing closely matched grant winners and losers, we find that subsidized investments raised employment by 23 percent with no detectable change in the skill mix. We use machine learning on the text of application evaluations to match firms. We then analyze firms’ stated plans and later actions and find that the subsidies primarily supported expansion—new products and markets—rather than automation of work. By contrast, outside the program, IT investment is more strongly linked to skill upgrading than machinery investment, consistent with different technologies shaping skill demand differently. Technology grants raised employment while leaving the skill mix essentially unchanged, creating opportunities for non-college workers.
       
 - title: "Evolving Returns to Personality"
   pdflink: "/pdf/stereotypes.pdf"
